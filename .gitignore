@@ -1,0 +1,70 @@
+## Build
+bin/
+obj/
+**/bin/
+**/obj/
+**/Debug/
+**/Release/
+**/x64/
+**/x86/
+**/build/
+artifacts/
+
+## Visual Studio (arquivos de usuário)
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+## Logs
+*.log
+*.tlog
+
+## Migrations - arquivos auxiliares gerados pelo EF Core
+**/Migrations/*Designer.cs
+
+## Configurações sensíveis
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.local.json
+
+## Banco de dados local / SQLite (caso use)
+*.db
+*.db-wal
+*.db-shm
+
+## NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+*.psmdcp
+
+## Rider / JetBrains
+.idea/
+*.ipr
+*.iws
+
+## VS Code
+.vscode/
+*.code-workspace
+
+## SO
+.DS_Store
+Thumbs.db
+
+## Testes
+TestResults/
+.coverage
+coverage/
+*.coverage
+*.coveragexml
+
+## Node (se houver front-end misturado, como Bootstrap via npm)
+node_modules/
+dist/
+npm-debug.log
+
+## Docker overrides
+docker-compose.override.yml
