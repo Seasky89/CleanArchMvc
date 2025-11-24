@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\projetos\\estudo\\CleanArchMvc\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F4CF226C-BC5D-4683-894E-BC827BB63264}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|c:\\projetos\\estudo\\cleanarchmvc\\cleanarchmvc.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4CF226C-BC5D-4683-894E-BC827BB63264}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|solutionrelative:cleanarchmvc.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F4CF226C-BC5D-4683-894E-BC827BB63264}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|c:\\projetos\\estudo\\cleanarchmvc\\cleanarchmvc.webui\\cleanarchmvc.webui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F4CF226C-BC5D-4683-894E-BC827BB63264}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|solutionrelative:cleanarchmvc.webui\\cleanarchmvc.webui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6C8F0326-3C2A-4F26-99AB-DD3D3C91F286}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|c:\\projetos\\estudo\\cleanarchmvc\\cleanarchmvc.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C8F0326-3C2A-4F26-99AB-DD3D3C91F286}|CleanArchMvc.Application\\CleanArchMvc.Application.csproj|solutionrelative:cleanarchmvc.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4CF226C-BC5D-4683-894E-BC827BB63264}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|c:\\projetos\\estudo\\cleanarchmvc\\cleanarchmvc.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4CF226C-BC5D-4683-894E-BC827BB63264}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|solutionrelative:cleanarchmvc.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F4CF226C-BC5D-4683-894E-BC827BB63264}|CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj|c:\\projetos\\estudo\\cleanarchmvc\\cleanarchmvc.webui\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,11 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\projetos\\estudo\\CleanArchMvc\\CleanArchMvc.Application\\Services\\CategoryService.cs",
               "RelativeDocumentMoniker": "CleanArchMvc.Application\\Services\\CategoryService.cs",
@@ -66,18 +66,17 @@
               "RelativeToolTip": "CleanArchMvc.Application\\Services\\CategoryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T22:17:36.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T22:17:36.315Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CleanArchMvc.WebUI",
+              "DocumentIndex": 1,
+              "Title": "CleanArchMvc.WebUI.csproj",
               "DocumentMoniker": "C:\\projetos\\estudo\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
               "RelativeDocumentMoniker": "CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
               "ToolTip": "C:\\projetos\\estudo\\CleanArchMvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
               "RelativeToolTip": "CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-11-24T22:14:43.334Z",
               "EditorCaption": ""
@@ -92,8 +91,7 @@
               "RelativeToolTip": "CleanArchMvc.WebUI\\Controllers\\AccountController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAowEUAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T22:00:08.515Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T22:00:08.515Z"
             },
             {
               "$type": "Document",
@@ -105,8 +103,7 @@
               "RelativeToolTip": "CleanArchMvc.WebUI\\ViewModels\\LoginViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T21:52:29.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T21:52:29.204Z"
             },
             {
               "$type": "Document",
@@ -118,8 +115,7 @@
               "RelativeToolTip": "CleanArchMvc.WebUI\\Controllers\\ProductsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T21:49:48.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T21:49:48.59Z"
             },
             {
               "$type": "Document",
@@ -131,8 +127,7 @@
               "RelativeToolTip": "CleanArchMvc.WebUI\\Views\\Account\\Register.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-24T21:47:17.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T21:47:17.45Z"
             },
             {
               "$type": "Document",
@@ -144,8 +139,7 @@
               "RelativeToolTip": "CleanArchMvc.WebUI\\Views\\Account\\Login.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-24T21:46:48.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T21:46:48.061Z"
             },
             {
               "$type": "Document",
@@ -157,12 +151,11 @@
               "RelativeToolTip": "CleanArchMvc.WebUI\\Views\\Products\\Create.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-24T21:46:32.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T21:46:32.946Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\projetos\\estudo\\CleanArchMvc\\CleanArchMvc.Infra.IoC\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "CleanArchMvc.Infra.IoC\\DependencyInjection.cs",
@@ -170,18 +163,17 @@
               "RelativeToolTip": "CleanArchMvc.Infra.IoC\\DependencyInjection.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T21:29:28.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T21:29:28.893Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\projetos\\estudo\\CleanArchMvc\\CleanArchMvc.WebUI\\Program.cs",
               "RelativeDocumentMoniker": "CleanArchMvc.WebUI\\Program.cs",
               "ToolTip": "C:\\projetos\\estudo\\CleanArchMvc\\CleanArchMvc.WebUI\\Program.cs",
               "RelativeToolTip": "CleanArchMvc.WebUI\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-24T21:26:38.399Z",
               "EditorCaption": ""
@@ -196,8 +188,7 @@
               "RelativeToolTip": "CleanArchMvc.WebUI\\Controllers\\CategoriesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T21:23:55.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T21:23:55.978Z"
             }
           ]
         }
