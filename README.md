@@ -48,12 +48,14 @@ A solução contém os seguintes projetos:
 
 ```bash
 dotnet restore
+```
 
 ### 2. Ajustar o arquivo de configuração
 
 Edite:
 ```bash
 CleanArchMvc.WebUI/appsettings.Development.json
+```
 
 e configure a connection string:
 
@@ -61,16 +63,19 @@ e configure a connection string:
 "ConnectionStrings": {
     "DefaultConnection": "server=localhost;database=cleanarchmvc;user=root;password=1234;"
 }
+```
 
 ### 3. Aplicar migrations
 
 ```bash
 dotnet ef database update --project CleanArchMvc.Infra.Data --startup-project CleanArchMvc.WebUI
+```
 
 ### 4. Rodar o sistema
 
 ```bash
 dotnet run --project CleanArchMvc.WebUI
+```
 
 ---
 
@@ -92,6 +97,7 @@ Para rodar os testes do domínio:
 
 ```bash
 dotnet test CleanArchMvc.Domain.Tests
+```
 
 ---
 
